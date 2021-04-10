@@ -34,4 +34,8 @@ do
   let index=index+1
 done
 
-dash ~/.autostart || sh ~/.autostart
+########################################
+######## AUTOSTART SCRIPT PATH #########
+########################################
+export AUTOSTART=$HOME/.config/autostart.sh
+dash $AUTOSTART || sh $AUTOSTART
