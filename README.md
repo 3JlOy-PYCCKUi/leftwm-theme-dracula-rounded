@@ -34,7 +34,7 @@ launcher    : Rofi
 2. Clone the repository
 
 ```BASH
-git clone https://github.com/AethanFoot/leftwm-theme-dracula-rounded.git
+git clone https://github.com/3JlOy-PYCCKUi/leftwm-theme-dracula-rounded
 ```
 
 3. Make a copy of this project in your themes folder
