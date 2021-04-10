@@ -25,6 +25,7 @@ launcher    : Rofi
 - [polybar](https://github.com/polybar/polybar)
 - [saucecodepro nerd font](https://github.com/ryanoasis/nerd-fonts)
 - [rofi](https://github.com/davatorium/rofi)
+- [xkblayout-state-git](https://github.com/nonpop/xkblayout-state)
 
 ## Installation
 
