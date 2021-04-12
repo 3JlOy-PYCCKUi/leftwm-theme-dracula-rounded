@@ -54,7 +54,12 @@ rm ~/.config/leftwm/themes/current
 ln -s ~/.config/leftwm/themes/leftwm-theme-dracula-rounded ~/.config/leftwm/themes/current
 ```
 
-6. Restart your window manager
+6. link your chosen wallpaper
+```BASH
+ln -s /path/to/wallpaper ~/.config/leftwm/themes/current/background_link
+```
+
+7. Restart your window manager
 
 ```Default shortcut
 $MOD + Shift + r
@@ -66,6 +71,9 @@ There are two launchers that can be used, list and touch. You can switch between
 ```BASH
 ln -s list_launcher.rasi launcher.rasi
 ```
+
+## Autostart
+The autorun script is expected by the path $HOME/.config/autostart
 
 ## Credits
 

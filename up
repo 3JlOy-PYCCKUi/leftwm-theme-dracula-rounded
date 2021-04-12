@@ -37,5 +37,5 @@ done
 ########################################
 ######## AUTOSTART SCRIPT PATH #########
 ########################################
-export AUTOSTART=$HOME/.config/autostart.sh
-dash $AUTOSTART || sh $AUTOSTART
+export AUTOSTART=$HOME/.config/autostart
+$AUTOSTART
